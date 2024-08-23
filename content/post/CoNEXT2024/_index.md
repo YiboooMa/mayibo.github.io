@@ -1,6 +1,6 @@
 ---
-title: 🎉 Our paper was accepted by ACM CoNEXT 2024.
-summary: We provide recommendations for deploying and commercializing 5G networks to promote sustainable 5G connectivity. 
+title: Our paper was accepted by ACM CoNEXT 2024!
+summary: We provide recommendations for promoting sustainable 5G connectivity. 
 date: 2024-07-02
 
 # Featured image
