@@ -1,23 +1,22 @@
 ---
-title: 'An example conference paper'
+title: 'Sustainable Connections: Exploring Energy Efficiency in 5G Networks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2024-07-02T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-07-02T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,16 +24,17 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *The 20th ACM International Conference on emerging Networking EXperiments and Technologies*
+publication_short: In *CoNEXT*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Although 5G networks offer larger capacity due to more antennas and larger bandwidths, their increased energy consumption is concerning. This paper investigates energy consumption issues from widespread 5G deployment using city-scale real-world mobile network data. Our dataset includes traffic volume, energy consumption, and base station attributes spanning May 2022, July 2023, and April 2024, covering over 10,000 4G and 5,000 5G base stations. A portion of the dataset is published on Google Drive. We develop high-accuracy models to profile 4G and 5G base station energy consumption, revealing 5G inefficiencies under low traffic loads. We identify energy efficiency traps where network energy efficiency drops post-5G deployment. Our study estimates the recovery time from energy efficiency traps, emphasizes that different functional regions have varying recovery levels, and analyzes the reasons for these differences. We provide recommendations for deploying and commercializing 5G networks to promote sustainable 5G connectivity.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We provide recommendations for deploying and commercializing 5G networks to promote sustainable 5G connectivity. [Dataset](https://drive.google.com/drive/folders/1_vdhbsc8f2guewCKGeRaWBU9fk88FMj5)
+
 
 tags:
-  - Large Language Models
+  - Network Data Analysis
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,18 +45,18 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
+url_dataset: 'https://drive.google.com/drive/folders/1_vdhbsc8f2guewCKGeRaWBU9fk88FMj5'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Energy efficiency trap in different functional regions in Nanchang.'
   focal_point: ''
   preview_only: false
 
@@ -65,23 +65,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
