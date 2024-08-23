@@ -29,7 +29,7 @@ tags:
   - 5G Network Deployment
   - Carbon Efficiency
   - Reinforcement Learning
-featured: false
+featured: true
 
 # links:
 # - name: ""

@@ -1,6 +1,6 @@
 ---
-title: 🎉 Our paper _Sustainable Connections-Exploring Energy Efficiency in 5G Networks_ was accepted by The 20th ACM International Conference on emerging Networking EXperiments and Technologies (**CoNEXT 2024**).
-summary: We provide recommendations for deploying and commercializing 5G networks to promote sustainable 5G connectivity. [Dataset](https://drive.google.com/drive/folders/1_vdhbsc8f2guewCKGeRaWBU9fk88FMj5)
+title: 🎉 Our paper was accepted by ACM CoNEXT 2024.
+summary: We provide recommendations for deploying and commercializing 5G networks to promote sustainable 5G connectivity. 
 date: 2024-07-02
 
 # Featured image
@@ -10,7 +10,6 @@ image:
 
 authors:
   - admin
-  - CoNEXT'24
 
 tags:
   - Mobile Network

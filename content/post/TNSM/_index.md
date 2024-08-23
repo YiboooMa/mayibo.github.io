@@ -1,6 +1,6 @@
 ---
-title: 🎉 Our paper _Mitigating Energy Consumption in Heterogeneous Mobile Networks through Data-Driven Optimization_ was accepted by IEEE Transactions on Network and Service Management (**TNSM**).
-summary: We propose the pRoactivE Data-drivEn Energy Saving Method (REDEEM) to mitigate energy consumption in heterogeneous 4G and 5G mobile networks. [Code](https://github.com/tsinghua-fib-lab/REDEEM) [Paper](https://ieeexplore.ieee.org/abstract/document/10565848)
+title: 🎉 Our paper was accepted by IEEE TNSM.
+summary: We propose the pRoactivE Data-drivEn Energy Saving Method (REDEEM) to mitigate energy consumption in heterogeneous 4G and 5G mobile networks.
 date: 2024-06-18
 
 # Featured image
@@ -10,7 +10,6 @@ image:
 
 authors:
   - admin
-  - TNSM
 
 tags:
   - Mobile Network

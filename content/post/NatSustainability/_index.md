@@ -1,6 +1,6 @@
 ---
-title: 🎉 Our paper _Carbon emissions of 5G mobile networks in China_ was accepted by **Nature Sustainability**.
-summary: Our study deepens the insights into carbon emission mitigation in 5G networks, paving the way towards energy-efficient and sustainable telecommunication infrastructures. [Code](https://github.com/Tong89/Sustainability_5G) [Paper](https://www.nature.com/articles/s41893-023-01206-5)
+title: 🎉 Our paper was accepted by Nature Sustainability.
+summary: Our study deepens the insights into carbon emission mitigation in 5G networks, paving the way towards energy-efficient and sustainable telecommunication infrastructures. 
 date: 2023-06-12
 
 # Featured image
