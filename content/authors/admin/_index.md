@@ -30,20 +30,20 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
+  - icon: custom/csdn
+    url: https://blog.csdn.net/weixin_53196770?spm=1000.2115.3001.5343
+    label: My Blogs of studies
   - icon: at-symbol
     url: 'mailto:mayibo2hyh@gmail.com'
     label: E-mail Me
   - icon: custom/google-scholar
     url: https://scholar.google.com/citations?hl=zh-CN&user=kwLLbjoAAAAJ
     label: My Google Scholar
-  - icon: custom/csdn
-    url: https://blog.csdn.net/weixin_53196770?spm=1000.2115.3001.5343
-    label: My Blogs of studies
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Embodied Intelligence
+  - Mobile Computing
+  - Robotics
 
 education:
   - area: M.Eng. in Big Data Engineering
