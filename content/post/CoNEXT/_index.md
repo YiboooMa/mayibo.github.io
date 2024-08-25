@@ -1,5 +1,5 @@
 ---
-title: Our paper was accepted by ACM CoNEXT 2024!
+title: 🎉 Our paper was accepted by ACM CoNEXT 2024!
 summary: We provide recommendations for promoting sustainable 5G connectivity. 
 date: 2024-07-02
 
@@ -31,7 +31,16 @@ Although 5G networks offer larger capacity due to more antennas and larger bandw
 
 We gathered a dataset of measurement reports, including traffic volume, energy consumption, and base station attributes for city-scale mobile networks. The dataset spans three periods: May 2022, July 2023, and April 2024. It includes data from over 10,000 4G base stations and 5,000 5G base stations, capturing the complexity of real-world network operations. To support the research community, we have published a portion of the dataset, including complete record traces of all base stations over one weekday and one weekend, on [Google Drive](https://drive.google.com/drive/folders/1_vdhbsc8f2guewCKGeRaWBU9fk88FMj5).
 
+
+[//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
+
 ## Acknowledgements
 
 This research has been supported in part by the National Natural Science Foundation of China under Grant U22B2057 and Grant U20B2060; in part by the National Key Research and Development Program of China under Grant 2020YFA0711403.
 
+
+## License
+
+Copyright 2016-present [George Cushen](https://georgecushen.com).
+
+Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
