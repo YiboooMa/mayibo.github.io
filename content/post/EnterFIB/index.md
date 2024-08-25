@@ -1,6 +1,6 @@
 ---
 title: I am honored to join FIB-Lab as a Master Student in the fall of 2022
-summary:  
+summary:  I am honored to join FIB-Lab as a Master Student in the fall of 2022
 date: 2022-05-02
 
 # Featured image

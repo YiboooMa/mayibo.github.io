@@ -1,6 +1,6 @@
 ---
 title: 🎉 The 2nd Research Summit of Urban Science and Human Dynamics was successfully held at Tsinghua University.
-summary: 
+summary: The 2nd Research Summit of Urban Science and Human Dynamics was successfully held at Tsinghua University.
 date: 2024-08-11
 
 # Featured image
@@ -12,7 +12,5 @@ authors:
   - admin
 
 ---
-
-{{< toc mobile_only=true is_open=true >}}
 
 Please refer to [here](https://mp.weixin.qq.com/s/3q26GOd749Wk0ISa_PAyLA) for relevant reports on the research summit.

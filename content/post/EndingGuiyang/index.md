@@ -1,6 +1,6 @@
 ---
 title: 🎉 I completed the defense of the practice report in Guiyang.
-summary: 
+summary: I completed the defense of the practice report in Guiyang.
 date: 2024-07-11
 
 # Featured image
