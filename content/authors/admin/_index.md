@@ -39,17 +39,6 @@ interests:
 
 education:
   - area: M.Eng. in Big Data Engineering
-
-    
-          
-            
-    
-
-          
-          Expand Down
-    
-    
-  
     institution: Tsinghua University
     date_start: 2022-09-01
     date_end: 2025-07-31

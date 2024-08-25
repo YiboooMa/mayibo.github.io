@@ -6,6 +6,11 @@ title: 'Sustainable Connections: Exploring Energy Efficiency in 5G Networks'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Tong Li
+  - Yuwei Du
+  - Schahram Dustdar
+  - Zhaocheng Wang
+  - Yong Li
 
 # Author notes (optional)
 # author_notes:
