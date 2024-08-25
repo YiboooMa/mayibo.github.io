@@ -10,7 +10,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2024-06-18T00:00:00Z"
-doi: "https://ieeexplore.ieee.org/abstract/document/10565848"
+doi: "10.1109/TNSM.2024.3416947"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-06-18T00:00:00Z"

@@ -14,7 +14,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2023-06-12T00:00:00Z"
-doi: "https://www.nature.com/articles/s41893-023-01206-5"
+doi: "https://doi.org/10.1038/s41893-023-01206-5"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-06-12T00:00:00Z"
