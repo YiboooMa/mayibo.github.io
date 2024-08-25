@@ -55,11 +55,21 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Selected Publications
+      title: Selected Publications (2024)
       text: ""
       filters:
         folders:
-          - publication
+          - publication2024
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
+    content:
+      title: Selected Publications (2023)
+      text: ""
+      filters:
+        folders:
+          - publication2023
         exclude_featured: false
     design:
       view: citation

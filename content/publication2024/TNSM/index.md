@@ -33,7 +33,7 @@ tags:
   - Mobile Network
   - Data-Driven Energy Saving Method
   - 5G
-featured: true
+featured: false
 
 # links:
 # - name: ""
