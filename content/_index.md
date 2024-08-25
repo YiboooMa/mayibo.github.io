@@ -39,7 +39,7 @@ sections:
         
         I am also very interested in **Embodied Intelligence**, **Robotics**, and **Motion Planning**, to create Human-like AI and improve people's lives.
         
-        Please reach out to collaborate 😃
+        Please reach out to collaborate! 😃
     design:
       columns: '1'
   - block: collection
