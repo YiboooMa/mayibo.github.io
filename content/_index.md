@@ -37,8 +37,6 @@ sections:
       text: |-
         My research areas include **Urban Data Mining**, **Network Digital Twins**, and **Energy Optimization**. 
         
-        I am also very interested in **Embodied Intelligence**, **Robotics**, and **Motion Planning**, to create Human-like AI and improve people's lives.
-        
         Please reach out to collaborate! 😃
     design:
       columns: '1'

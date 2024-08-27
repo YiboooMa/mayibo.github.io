@@ -33,9 +33,9 @@ profiles:
     label: My Google Scholar
 
 interests:
-  - Embodied Intelligence
+  - Network Digital Twins
   - Mobile Computing
-  - Robotics
+  - Data Mining
 
 education:
   - area: M.Eng. in Big Data Engineering
@@ -145,4 +145,4 @@ awards:
     summary: |
 ---
 ## About Me
-Hi! I am a **Master's Student** at Tsinghua University advised by [Prof Yong Li](https://fi.ee.tsinghua.edu.cn/~liyong/), doing research at the Future Intelligent Lab ([FIB-Lab](https://fi.ee.tsinghua.edu.cn/)). Before that, I received my B.S. from Tongji University advised by [Prof. Yaobao Yin](https://mefaculty.tongji.edu.cn/info/1296/3241.htm). 
+Hi! I am a **Master's Student** at Tsinghua University, advised by [Prof. Yong Li](https://fi.ee.tsinghua.edu.cn/~liyong/) and [Prof. Tong Li](https://tong89.github.io/tongli.github.io/), working at the Future Intelligent Lab ([FIB-Lab](https://fi.ee.tsinghua.edu.cn/)). Before that, I received my B.S. from Tongji University advised by [Prof. Yaobao Yin](https://mefaculty.tongji.edu.cn/info/1296/3241.htm). 
