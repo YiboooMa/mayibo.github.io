@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research areas include **Urban Data Mining**, **Network Digital Twins**, and **Energy Optimization**. 
+        My research areas include **Network Digital Twins**, **Mobile Computing**, **Machine Learning**, **Large-Scale Data Mining**. 
         
         Please reach out to collaborate! 😃
     design:
@@ -53,21 +53,11 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Selected Publications (2024)
+      title: Publications
       text: ""
       filters:
         folders:
-          - publication2024
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    content:
-      title: Selected Publications (2023)
-      text: ""
-      filters:
-        folders:
-          - publication2023
+          - publication
         exclude_featured: false
     design:
       view: citation
