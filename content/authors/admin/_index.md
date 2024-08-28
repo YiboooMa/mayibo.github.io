@@ -17,7 +17,7 @@ highlight_name: true
 role: Master Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Future Intelligent Lab
+  - name: Future Intelligent Lab at Tsinghua University
     url: https://fi.ee.tsinghua.edu.cn/
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
